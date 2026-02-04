@@ -10,6 +10,7 @@
 ### 💻 About Me
 
 I am a **disciplined and passionate developer** with a strong focus on the JavaScript ecosystem. Currently, I'm leveling up my skills by learning :
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 I thrive on innovation and continuous learning. Now, I am looking for my **first professional opportunity** to apply my technical knowledge and contribute to a real-world project that delivers genuine value.
